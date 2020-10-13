@@ -39,6 +39,11 @@ img {
   border-radius: var(--border-radius);
 }
 
+.image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: var(--heading-color);
+}
 table {
   margin-bottom: 1rem;
   width: 100%;
